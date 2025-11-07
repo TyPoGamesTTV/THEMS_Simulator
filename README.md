@@ -11,6 +11,8 @@ THEMS is a claimed perpetual motion device using:
 - A machine that moves along the racks
 
 The inventor (https://www.facebook.com/TheMichaelHarrington) claims this system can create perpetual motion.
+This Simulation aims to disprove that claim. As the claimant adds more data I will hopefully be able to upload it here to go with this, however as of now all we have is a brief technical description. 
+If the claimant releases their data publicly I will link to it at the very least.
 
 ## Quick Start
 
