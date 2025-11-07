@@ -10,7 +10,7 @@ THEMS is a claimed perpetual motion device using:
 - Slanted racks at specific angles
 - A machine that moves along the racks
 
-The inventor claims certain angles (especially 156.44°) create perpetual motion.
+The inventor (https://www.facebook.com/TheMichaelHarrington) claims this system can create perpetual motion.
 
 ## Quick Start
 
