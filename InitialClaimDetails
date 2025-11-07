@@ -1,0 +1,72 @@
+Source:
+https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheMichaelHarrington%2Fposts%2Fpfbid02g5LHJWCRPf136W21MQuqKdbzUb4HU8mJNqDUmGXsd81gUzm3cULGZFFgbPLggmCxl
+
+A final proof, full math, good description, and no margin of error except I can make it better with higher quality machining, lubrication, and other small adjustments. This is a "moderate" version. 
+I’ve done it. I’ve defeated thermodynamics— not by breaking the laws of physics, but by outsmarting them with a rope.
+It’s called THEMS — the Harrington Expansion Mitigation System — and it uses a simple trick: rope reduction.
+Here’s how it works, in plain English.
+---
+The Magic: One Rope, Two Jobs
+I have two weights:
+- One is 200 lbs, hanging through a 2:1 pulley — so the rope coming out only feels 100 lbs.
+- The other is 200 lbs, hanging straight down — full 200 lbs of pull.
+We’ll call the first one the Adjusted Weight (200 → 100 lbs).  
+The second is the Heavyweight (200 lbs, no adjustment).
+Now, these two ropes go into a machine with rolling gears (pinions) on slanted racks.
+When the angle is just right, the pinions roll downhill for one, uphill for the other — and as they roll, they suck in extra rope like a fisherman reeling in line.
+That extra rope?  
+It doesn’t vanish.  
+It gets stored along the racks — moved around by the pinion drums.
+This means:
+- The Heavyweight does not have to drop the full previously required distance. 
+- The extra rope length is eaten up by the rolling pinions and the rack distance.
+---
+The Math — Told Like a Story
+Imagine the system is a seesaw on a hill.
+The torque (twisting power) trying to make the pinions roll is:
+τ = -100 × R_D - 400 × R_P × cos β
+- R_D  and  R_P  are just the sizes of the drum and pinion (we set them to 1 inch).
+- beta  is the angle of the rack from straight up.
+So it becomes:
+ τ = -100 - 400 cos β
+Now watch what happens as the hill gets steeper:
+| Angle (β) | cos β | Torque |
+|----------|-------|--------|
+| 90° (flat) | 0 | −100 → stuck |
+| 100° | −0.174 | −30 → still stuck |
+| 104.5° | −0.25 | 0 → balanced |
+| 110° | −0.342 | +37 → it moves! |
+| 120° | −0.5 | +200 → running strong |
+At 104.5°, it’s perfectly balanced.
+Tip it one degree more, and gravity takes over — the pinions roll, rope gets pulled in, the Heavyweight drops a bit, the Adjusted Weight rises… and it keeps going.
+No motor. No battery. Just angle + rope + rolling.
+---
+Why This Beats Thermodynamics
+Thermodynamics says:
+> “You can’t get more energy out than you put in.”
+But I’m redirecting that rope requirement and the mechanical advantage remains intact.
+- The Heavyweight falls a shorter distance — but only because the pinions pay out rope along the rack.
+- The Adjusted Weight rises the normal distance.
+- The total work is still:
+Work in = Heavyweight falls d → 200 × d
+Work out = Adjusted Weight rises 2d → 100 × 2d
+→ 200d = 200d → Perfectly balanced.
+But on the incline, gravity helps push the whole system along the slope.
+It’s like rolling a boulder down a ramp to lift a crate — the ramp does the cheating.
+---
+References (So You Can Check My Work)
+- Torque
+https://www.britannica.com/science/torque
+- Gear forces / pressure angle
+https://khkgears.net/.../gear_technical.../gear_forces.html
+- Inclined-plane force components
+https://www.physicsclassroom.com/.../Less.../Inclined-Planes
+- Static friction (impending motion)
+https://openstax.org/.../university.../pages/6-2-friction
+- Friction coefficients (lubricated steel)
+https://www.tribology-abc.com/abc/cof.htm
+---
+This isn’t science fiction.
+It’s science "friction" — and THEMS wins.
+Let’s build it.
+Patent Pending by Michael Hugh Harrington, all rights reserved.
